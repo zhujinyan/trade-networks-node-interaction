@@ -6,7 +6,8 @@ import pandas as pd
 import csv
 
 '''
-    Choose an indicator, order all the countries based on the corresonding value
+    Use cal-network-matrix to calculate all network matrice that are covered
+    Choose a matrix, order all the countries based on the corresonding value
     Then perform attack
 '''
 
